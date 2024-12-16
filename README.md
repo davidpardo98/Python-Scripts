@@ -34,3 +34,6 @@ Además, algunos scripts pueden requerir librerías específicas. Estas se detal
    ```bash
    git clone https://github.com/tu-usuario/python-scripts.git
    cd python-scripts
+
+🤝 Contribuciones
+¡Las contribuciones son bienvenidas! Si tienes un script útil que quieras compartir o ideas para mejorar los existentes, no dudes en hacer un fork y enviar un pull request.
